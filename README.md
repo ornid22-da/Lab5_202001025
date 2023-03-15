@@ -28,5 +28,5 @@ def block_websites(start_hour, end_hour):
 ### Screenshot of Error found
 ![Screenshot 2023-03-15 150044](https://user-images.githubusercontent.com/122976431/225268454-af5a340f-6725-4e28-b4cc-3f2c80c2eab2.png)
 
-###Github Repo: Website Blocker Python
+### Github Repo: Website Blocker Python
 Github Repo Link: https://github.com/Kalebu/Website-blocker-python
