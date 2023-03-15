@@ -29,5 +29,5 @@ In the line 21 error of the kind "Missing Function or Method Docstring (method-f
 
 In the lines 29 and 35 error of the kind "Using open without explicitly specifying an encoding (unspecified-encoding)". This error is True Positive as the code file does not mention the encoding. Using the system default implicitly can create problems on other operating systems.  
 
-### Github Repo: Website Blocker Python
+### Github Repo Used: Website Blocker Python
 Github Repo Link: https://github.com/Kalebu/Website-blocker-python
